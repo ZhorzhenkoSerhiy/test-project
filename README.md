@@ -17,7 +17,7 @@
 
 5.Для того що б перейти на нову гілку прописав команду `git checkout newBranch`
 
-6.Для підключення до данного репозиторію прописав команду`git remote add origin https://githab.com/ZhorzhenkoSerhiy/test-project.git
+6.Для підключення до данного репозиторію прописав команду`git remote add origin https://githab.com/ZhorzhenkoSerhiy/test-project.git`
 
 7.Для вигрузки саме основної гілки прописав команду `git push -u origin master`
 
